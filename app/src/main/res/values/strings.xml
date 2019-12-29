@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestQuiz</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="add_question">Añadir Pregunta</string>
+    <string name="answer">Contestar Preguntas</string>
+    <string name="isTrue">Verdadero</string>
+    <string name="isFalse">Falso</string>
+</resources>
